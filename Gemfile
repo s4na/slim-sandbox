@@ -76,5 +76,6 @@ end
 gem "slim"
 
 group :development do
+  gem "slim-rails"
   gem "html2slim"
 end
