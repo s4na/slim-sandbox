@@ -70,3 +70,11 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+# 追加したGem
+
+gem "slim"
+
+group :development do
+  gem "html2slim"
+end
